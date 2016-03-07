@@ -57,3 +57,10 @@ NOTE: For the program to work, the user who is taking the image must be in a wel
 Datasets:
 http://mplab.ucsd.edu, The MPLab GENKI Database. http://pics.psych.stir.ac.uk/2D_face_sets.htm. Utrecht EVP
 
+
+
+
+
+The ability to spot faces from any angle, and even when partially occluded, has always been a uniquely human capability. Not anymore.
+
+February 16, 2015
